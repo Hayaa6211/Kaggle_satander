@@ -7,4 +7,3 @@ else
 fi
 
 git push
-pause
