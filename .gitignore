@@ -1,3 +1,5 @@
 santander-product-recommendation/
 df_lag.csv
 *.csv
+!XY_trn.csv
+!XY_vld.csv
